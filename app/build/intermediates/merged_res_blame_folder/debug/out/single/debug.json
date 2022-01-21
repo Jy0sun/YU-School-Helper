@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_fragment_schedule.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/fragment_schedule.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_perm_contact_calendar_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_perm_contact_calendar_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_post.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/post.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_basket.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/basket.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_rank.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/rank.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_list_alt_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_list_alt_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_activity_board.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/activity_board.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable-v24_crown.png.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable-v24/crown.png"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable-v24_logo.png.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable-v24/logo.png"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_fragment_map.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/fragment_map.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_insert_emoticon_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_fragment_basket.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/fragment_basket.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_search_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_course.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/course.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_activity_myboard.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/activity_myboard.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_spinner_item.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_inbox_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_inbox_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_assignment_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_assignment_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_person_242.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_person_242.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_emoji_emotions_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_emoji_emotions_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_activity_post.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/activity_post.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_comment.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/comment.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_fragment_course.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/fragment_course.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_map_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_map_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_note_add_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_note_add_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_activity_register.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_https_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_https_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_activity_post_detail.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/activity_post_detail.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_library_books_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_library_books_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable-v24_map.jpeg.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable-v24/map.jpeg"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_fragment_info.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_yulogo.png.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/yulogo.png"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_cell_shape.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/cell_shape.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/layout_fragment_modify.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/layout/fragment_modify.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_not_interested_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_not_interested_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_border_color_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_border_color_24.xml"
+    },
+    {
+        "merged": "/Users/jyosun/AndroidStudioProjects/YU/app/build/intermediates/merged_res/debug/drawable_ic_baseline_person_24.xml.flat",
+        "source": "/Users/jyosun/AndroidStudioProjects/YU/app/src/main/res/drawable/ic_baseline_person_24.xml"
+    }
+]

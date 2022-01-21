@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6B7AF7">
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="659dp">
+
+        <LinearLayout
+            android:id="@+id/notice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+
+                android:background="#B8CAFE"
+                android:text="'오늘의 소통왕'"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/king"
+
+                android:background="#B8CAFE"
+                android:text="나야나~"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:textStyle="bold"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="100dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="125dp"
+                    android:layout_height="125dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="150dp"
+                    android:src="@drawable/logo" />
+
+                <TextView
+                    android:layout_width="336dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:text="아래의 버튼을 클릭하여 YU학교도우미 기능을 사용해보세요!"
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/fragment"/>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/scheduleButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:drawableTop="@drawable/ic_baseline_access_time_24"
+            android:text="시간표"
+            android:textColor="#ffffff"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/courseButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:drawableTop="@drawable/ic_baseline_list_alt_24"
+            android:text="강의목록"
+            android:textColor="#ffffff"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/boardButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:drawableTop="@drawable/ic_baseline_border_color_24"
+            android:text="게시판"
+            android:textColor="#ffffff"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/mapButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:drawableTop="@drawable/ic_baseline_map_24"
+            android:text="로드맵"
+            android:textColor="#ffffff"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/infoButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:drawableTop="@drawable/ic_baseline_person_242"
+            android:text="내 정보"
+            android:textColor="#ffffff"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>
